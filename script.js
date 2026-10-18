@@ -1,12 +1,3 @@
-/*
-  HOW TO ADD A MEMBER:
-  1. Copy one object from the friends array below.
-  2. Change the name, username, photo, bio, interests, skills and social URLs.
-  3. For a photo, put the image in an "images" folder and use "images/name.jpg",
-     or use a public image URL. If photo is empty, initials are shown.
-  4. Save and publish your updated site.
-  Use real profile links only, and get permission before posting someone's photo.
-*/
 const friends = [
   {
     name: "Aditya Mishra",
